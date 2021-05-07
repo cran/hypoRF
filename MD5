@@ -1,0 +1,6 @@
+20e9550713802548589e3aa59e2df093 *DESCRIPTION
+fca0b25ee0bb7c4f0bf1f07bca517f7c *NAMESPACE
+23d2860543f2c0a117175957ef81bbb0 *R/hypoRF.R
+a40cae959d3b746f25fd7f7e723a2fda *man/hypoRF.Rd
+b51598a855bc3966d4f5754f6d91d1f2 *tests/testthat.R
+2da9d30e69f597fb8d162afe66ebccb5 *tests/testthat/test_hypoRF.R
